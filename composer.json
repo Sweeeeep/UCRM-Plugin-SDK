@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ubnt\\": "src/"
+            "Ubnt\\": "src/UcrmPluginSdk/"
         }
     },
     "autoload-dev": {
