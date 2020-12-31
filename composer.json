@@ -1,9 +1,9 @@
 {
-    "name": "ubnt/ucrm-plugin-sdk",
+    "name": "sweeeeep/ucrm-plugin-sdk",
     "description": "UCRM plugin SDK",
     "keywords": ["ucrm", "sdk"],
     "type": "library",
-    "homepage": "https://github.com/Ubiquiti-App/UCRM-Plugin-SDK",
+    "homepage": "https://github.com/sweeeeep/UCRM-Plugin-SDK",
     "license": "MIT",
     "require": {
         "php": "^7.3.0|^8.0",
